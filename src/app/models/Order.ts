@@ -25,6 +25,7 @@ export const Order = model('Order', new Schema(
         quantity: {
           type: Number,
           default: 1
+
         }
       }]
     }
